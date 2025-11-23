@@ -53,30 +53,5 @@ Tech: `Python` `Flask` `SQLite`
 
 ---
 
-## 📬 Contact
-<p align="left">
-  <a href="mailto:kavivarsha23cs@rnsit.ac.in"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
-  <a href="tel:+918867546414"><img src="https://img.shields.io/badge/Phone-Call-green?style=for-the-badge&logo=whatsapp" /></a>
-</p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" width="500"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" width="500"/>
-</p>
-
----
-
-## ✨ Quote
-> **"Consistency compounds — small daily progress builds extraordinary results."**
-
----
-
-### ⭐ If you like my work, consider giving a star to my repositories!  
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" /></p>
 
